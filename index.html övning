@@ -1,0 +1,1210 @@
+<html lang="sv">
+<head>
+    <meta charSet="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Amandas websida</title>
+    <meta name="description" content=""/>
+    <meta property="og:title" content="Urban Hair"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:locale" content="sv"/>
+    <meta name="next-head-count" content="7"/>
+    <link rel="icon" href="/business/favicon.ico"/>
+    <link rel="preload" href="/business/_next/static/media/eb0d9b10869c6865-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+    <link rel="preload" href="/business/_next/static/media/f8a44b0bdb1cbc33-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+    <link rel="preload" href="/business/_next/static/media/bd078bd91de4c998-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust"/>
+    <link rel="preload" href="/business/_next/static/css/cdb0362aa7ac3067.css" as="style"/>
+    <link rel="stylesheet" href="/business/_next/static/css/cdb0362aa7ac3067.css" data-n-g=""/>
+    <link rel="preload" href="/business/_next/static/css/d848850e2658498e.css" as="style"/>
+    <link rel="stylesheet" href="/business/_next/static/css/d848850e2658498e.css" data-n-p=""/>
+    <link rel="preload" href="/business/_next/static/css/9b1b67c1b0de0b19.css" as="style"/>
+    <link rel="stylesheet" href="/business/_next/static/css/9b1b67c1b0de0b19.css" data-n-p=""/>
+    <noscript data-n-css=""></noscript>
+    <script defer="" nomodule="" src="/business/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script>
+    <script src="/business/_next/static/chunks/webpack-8575e625dd5b6dda.js" defer=""></script>
+    <script src="/business/_next/static/chunks/framework-2c79e2a64abdb08b.js" defer=""></script>
+    <script src="/business/_next/static/chunks/main-58fa037c66b98e9e.js" defer=""></script>
+    <script src="/business/_next/static/chunks/pages/_app-2b704a9c0eb26bde.js" defer=""></script>
+    <script src="/business/_next/static/chunks/7dcf9772-6f0407973bef11b0.js" defer=""></script>
+    <script src="/business/_next/static/chunks/4db5f4ac-25ae86caedaae7ac.js" defer=""></script>
+    <script src="/business/_next/static/chunks/2cca2479-449546ceaeec6763.js" defer=""></script>
+    <script src="/business/_next/static/chunks/75fc9c18-25984afe689afff4.js" defer=""></script>
+    <script src="/business/_next/static/chunks/653-f4ba2aa06f4ab189.js" defer=""></script>
+    <script src="/business/_next/static/chunks/320-d460c46c8f3e51d8.js" defer=""></script>
+    <script src="/business/_next/static/chunks/58-a0e75d0a05da3aed.js" defer=""></script>
+    <script src="/business/_next/static/chunks/pages/%5Bslug%5D-4c2e1579aca601a0.js" defer=""></script>
+    <script src="/business/_next/static/3hh2thRkI66ZCDoYCTLuZ/_buildManifest.js" defer=""></script>
+    <script src="/business/_next/static/3hh2thRkI66ZCDoYCTLuZ/_ssgManifest.js" defer=""></script>
+    <style id="__jsx-2199930314">
+    :root {
+        --font-family: '__centraNo2_f3fb21', '__centraNo2_Fallback_f3fb21', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif
+    }
+    </style>
+
+    <link rel="stylesheet" type="text/css" href="CSS övning">
+    <link rel="stylesheet" type="text/css" href="2.css">
+    <link rel="stylesheet" type="text/css" href="CSS3">
+
+</head>
+<body class="">
+    <div id="__next">
+        <div class="layout_container___mqLH">
+            <main>
+                <header class="">
+                    <div class="header_details__YR_2v">
+                        <div class="header_heading__f_4tu">
+                            <h1>Gergish</h1>
+                            <title> Gergish</title>
+                            <link rel="stylesheet" href="CSS övning">
+                            <link rel="preconnect" href="https://fonts.googleapis.com"> 
+                            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+                            <link href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap" rel="stylesheet">
+                            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+                        </div>
+                    </div>
+                </header>
+                <div class="header_nav__RljSB">
+                    <div class="header_openToday__8d9uZ header_closed__bHdW4">
+                        <svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="clock" class="svg-inline--fa fa-clock " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                            <path fill="currentColor" d="M464 256A208 208 0 1 1 48 256a208 208 0 1 1 416 0zM0 256a256 256 0 1 0 512 0A256 256 0 1 0 0 256zM232 120V256c0 8 4 15.5 10.7 20l96 64c11 7.4 25.9 4.4 33.3-6.7s4.4-25.9-6.7-33.3L280 243.2V120c0-13.3-10.7-24-24-24s-24 10.7-24 24z"></path>
+                        </svg>
+                        <span class="header_openHours__KsB_8">Stängt</span>
+                        <span>- Öppnar tisdag kl. 09:30</span>
+                    </div>
+                </div>
+                <section></section>
+                <section>
+                    <div class="booking_container__oolFO">
+                        <div id="cliento-booking">
+                            <div class="cb-header">
+                                <h2>Boka tid</h2>
+                            </div>
+                            <div class="cb-layout-base cb-breakpoint-desktop">
+                                <div class="cb-layout-sidebar">
+                                    <div class="cb-resource-selector-trigger">
+                                        Välj person
+                                        <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                        </svg>
+                                    </div>
+                                    <ul class="cb-resource-selector">
+                                        <li class="cb-resource-selector-header">
+                                            <div class="cb-resource-text">Välj person</div>
+                                        </li>
+                                        <li class="active">
+                                            <div class="cb-resource-text">Visa alla</div>
+                                            <svg width="22" height="23" class="lineart" viewBox="0 0 22 23" xmlns="http://www.w3.org/2000/svg">
+                                                <circle cx="11" cy="11.3215" r="11"></circle>
+                                                <path d="M6.86523 11.4458L10.0424 14.3771L15.135 8.26599" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                            </svg>
+                                        </li>
+                                        <li class="" value="7558">
+                                            <div class="cb-resource-text">Beverlie</div>
+                                            <svg width="22" height="23" class="lineart" viewBox="0 0 22 23" xmlns="http://www.w3.org/2000/svg">
+                                                <rect x="1" y="1.32153" width="20" height="20" rx="10" stroke-width="2"></rect>
+                                            </svg>
+                                        </li>                                        
+                                        
+                                    </ul>
+                                </div>
+                                <div class="cb-layout-main">
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Klippning</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Junior klippning Lockig frisyr</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Klipp ditt lockiga hår hos en frisör under training. Frisörerna under training har inte lika mycket erfarenhet, därför är behandlingen Junior klippning lockigt hår billigare. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Klippning inklusive tvätt och styling </strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60-90 min</span>
+                                                                    <span>Från 1 390 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title"> Klippning Lockig frisyr ( shape cut)  inkl tvätt &amp; styling</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60-90 min</span>
+                                                                    <span>Från 1 390 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>En shapecut innebär att vi formar ditt hår efter dina lockar.
+                                                            Eftersom vi oftast klipper i torrt hår ber vi er att gärna komma med lockigt utsläppt hår.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Klippning med K18 / Chemestry Shot</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>90-105 min</span>
+                                                                    <span>1 890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Klippning med en intensiv kur.
+                                                            Vi bestämmer tillsammans med dig på plats viken som passar just ditt hår.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Spa Mist Behandling</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Spa mist Hair treatment </strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>75-105 min</span>
+                                                                    <span>Från 1 300 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Vad är en Spa mist II?
+                                                            Det är en maskin som med hjälp utav vibrerande vatten skapar en mist utav mikroskopiska vatten partiklar som skonsamt öppnat upp hårstrået. Det gör så att alla våra behandling kan penetrera djupare in i ditt hår. Maskinen ser även till så att håret sluts igen efter behandlingen med en kall mist. 
+
+                                                            Den här behandlingen är perfekt för dig som vill ha en djup inpackning skräddarsydd för just ditt hår. Vi börjar med att detoxa håret med ett djup rengörande schampo för att sedan ge dig din behandling. Du får e hårbottens massage för att stimulera hårbotten och tillsist avslutar vi din behandling med en spa mist treatment. 
+                                                            Vill du lägga till klippning i denna behandling så tillkommer det 700 kr. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Spa Mist Treatment Hair &amp; Scalp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>Från 2 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Upplev en lyxig hår spa behandling!
+                                                            Med hjälp utav våran spa mist så kommer vi först detoxa hårbotten för att få bort alla rest produkter. Ett rent hår botten sätter en bra grund för en frisk hårväxt.  Efter det får du en skräddarsydd inpackning med en hårbottens massage. Som avslut sitter du med en huva och får njuta utav våran  spa mist ännu en gång.
+                                                            Vi avslutar med en lätt styling. 
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Vårdande &amp; Antifrizz behandlingar</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">K18 / Chemestry Shot</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>75 min</span>
+                                                                    <span>Från 1 190 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Intensiv Kur
+                                                            Tillsammans med dig bestämmer vi vilken vårdande behandling som passar ditt hår bäst.
+                                                            (Lägg till klippning +700kr)</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Kebelo antifrizz behandling inkl klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>2 h 15 min</span>
+                                                                    <span>Från 3 490 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Kebelo ger dig en bättre version av ditt eget hår. Den är en utav de få anti frizz-behandlingarna som är 100% ofarlig för dig, din frisör och är snäll mot naturen. Den är baserad på aminosyror och botaniska proteiner. Behandlingen är snäll mot ditt hår och eliminerar frizz., drar ut på lockar vare sig de är stora eller små samt gör vågigt hår rakt. Ditt hår blir mer lättskött, glansligt och betydligt mycket friskare. Kebelo fungerar bra på både hår med textur ( vågigt, lockigt &amp; krulligt hår ) och skandinaviskt hår.
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Kebelo + epres Inkl klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h - 3 h 20 min</span>
+                                                                    <span>Från 4 390 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Kebelo + Texturizer</strong>
+                                                                <label class="cb-service-details-label"></label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Färg</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Toning </strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60 min</span>
+                                                                    <span>Från 1 290 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Färg utväxt</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>90 min - 120 min</span>
+                                                                    <span>Från 1 290 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Din utväxt får inte vara mer än 3 cm, om du vill fräscha upp dina längder med nyansering rekommenderar vi att boka &quot;Helfärg&quot; istället.  ( Klippning + 700)
+                                                            (endast färg och inte slingor eller blondering)
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Färg Utväxt inkl. klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>2 h 30 min</span>
+                                                                    <span>Från 2 690 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Din utväxt får inte vara mer än 3 cm, om du vill fräscha upp dina längder med nyansering rekommenderar vi att boka &quot;Helfärg&quot; istället.  ( Klippning + 700)
+                                                            (endast färg och inte slingor eller blondering)
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Utväxtfärg + Texturizer ink klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h - 3 h 30 min</span>
+                                                                    <span>Från 2 690 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Hel färg mörk färg på mörkt hår</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>120 min</span>
+                                                                    <span>Från 2 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Mörk färgning ej uppljusning.
+                                                            (Lägg till klippning + 700kr)</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Slingor / Uppljusning  (på färgat hår) + klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h - 4 h 30 min</span>
+                                                                    <span>Från 4 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Det här bokar du om du har gammal färg i håret som du önskar att ljusa upp. 
+                                                            +1000:-/tim utöver 4,5h
+                                                            (Ingår klippning)</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Slingor / Uppljusning  (på ofärgat hår) + Klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h - 4 h</span>
+                                                                    <span>Från 3 500 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>+1000:-/tim utöver 3,5h
+                                                            Detta kan du även boka om du redan har slingor och endast vill slinga utväxten.
+                                                            (Ingår klippning)
+                                                            </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Hårförlängning</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Hårförlängning Rader 1-2 st 890:- per rad</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60 min</span>
+                                                                    <span>Från 890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Hårförlängning Rader 3 st</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>90-105 min</span>
+                                                                    <span>2 500 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Weave</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>120 min - 2 h 30 min</span>
+                                                                    <span>Från 2 500 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>ingå ej löshår, köps separat på salongen.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Weave + Löshår (100% virgin hair)</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>120 min - 2 h 30 min</span>
+                                                                    <span>Från 6 900 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Ingår löshår som du kan välja på salongen</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Helweave</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>2 h 30 min - 3 h</span>
+                                                                    <span>2 700 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Weave + Kebelo lugg/ hårfäste</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>2 h 30 min</span>
+                                                                    <span>Från 4 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Weave + Texturizer</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h</span>
+                                                                    <span>Från 3 490 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Urtagning av weave</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>75-90 min</span>
+                                                                    <span>1 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>ingår tvätt och styling </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Tvätt och Style med hårförlängning</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>75 min</span>
+                                                                    <span>Från 890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>För dig som redan har hårförlägning och endast vill tvätta och styla</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Weave Lacefront</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>3 h</span>
+                                                                    <span>2 700 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>ingår ej hår, köps separat. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Flätor</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Boxbraids</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>4 h 20 min</span>
+                                                                    <span>Från 3 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Inbakade flätor 2st inkl löshår</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>45 min</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">cornrow 6-8 st</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60-90 min</span>
+                                                                    <span>Från 1 190 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Cornrows är inbakade / utbakade flätor som man kan välja med olika designs. En skonsamt sätt att variera frisyren. </p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Cornrows 6-8st + Tvätt</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>105 min</span>
+                                                                    <span>Från 1 690 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Ingår tvätt innan flätning</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Cornrows 12-14 st</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>105 min</span>
+                                                                    <span>Från 1 590 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Cornrows 12-14st + Tvätt</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>2 h 25 min</span>
+                                                                    <span>Från 2 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>Ingår tvätt innan flätning</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Cornrows Design </strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>120 min</span>
+                                                                    <span>Från 2 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Boxbraids barn</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>120 min</span>
+                                                                    <span>Från 2 000 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cb-service-item-description cb-collapsed">
+                                                            <p>UHs sommarflätor barn, är en mix av inbakade och läsa flätor. Perfekt för sommaren med sol och bad.</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">Permanent</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Texturizer inkl klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>90 min</span>
+                                                                    <span>Från 1 590 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Rakpermanent inkl Klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>90 min</span>
+                                                                    <span>Från 1 590 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <hr/>
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Texturizer / Rakpermanent med K18 inkl klipp</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>105 min</span>
+                                                                    <span>Från 1 890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cb-service-group">
+                                        <div class="cb-service-group-header">
+                                            <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.8337 16.2557C12.6086 16.4807 12.3035 16.6071 11.9853 16.6071C11.6671 16.6071 11.3619 16.4807 11.1369 16.2557L6.33685 11.4557C6.11826 11.2294 5.99731 10.9263 6.00005 10.6116C6.00278 10.297 6.12898 9.99603 6.35147 9.77354C6.57396 9.55105 6.87494 9.42485 7.18957 9.42211C7.50421 9.41938 7.80733 9.54033 8.03365 9.75892L11.9853 13.7105L15.9369 9.75892C16.0476 9.64431 16.18 9.55289 16.3264 9.49C16.4728 9.42711 16.6302 9.39401 16.7896 9.39262C16.9489 9.39124 17.1069 9.4216 17.2544 9.48194C17.4019 9.54227 17.5359 9.63138 17.6485 9.74405C17.7612 9.85672 17.8503 9.99071 17.9106 10.1382C17.971 10.2857 18.0013 10.4437 18 10.603C17.9986 10.7623 17.9655 10.9198 17.9026 11.0662C17.8397 11.2126 17.7483 11.345 17.6337 11.4557L12.8337 16.2557Z"></path>
+                                            </svg>
+                                            <span class="cb-service-group-name">HÅR</span>
+                                        </div>
+                                        <div class="cb-service-list">
+                                            <div class="cb-service-item available bookable">
+                                                <div class="cb-service-item-container">
+                                                    <div class="cb-service-item-info">
+                                                        <div class="cb-service-item-header">
+                                                            <span>
+                                                                <strong class="cb-service-details-title">Tvätt och Style</strong>
+                                                                <label class="cb-service-details-label">
+                                                                    <span>60 min</span>
+                                                                    <span>Från 890 kr</span>
+                                                                </label>
+                                                            </span>
+                                                            <div class="cb-service-item-cta">
+                                                                <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="cb-service-item-cta">
+                                                        <button type="button" class="cb-button cb-button-success-outline">Välj</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="layout_section__Rr_VK">
+                    <div class="layout_rowBetween__uyM3s">
+                        <section class="hours_container__N7nlR">
+                            <h2>Öppettider</h2>
+                            <ul class="hours_list__PK_kA">
+                                <li class="hours_day__wpUkD hours_today__eeOTV">
+                                    <span>
+                                        Måndag<!-- -->
+                                        :
+                                    </span>
+                                    <span>09:30 - 18:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD">
+                                    <span>
+                                        Tisdag<!-- -->
+                                        :
+                                    </span>
+                                    <span>09:30 - 18:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD">
+                                    <span>
+                                        Onsdag<!-- -->
+                                        :
+                                    </span>
+                                    <span>09:30 - 18:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD">
+                                    <span>
+                                        Torsdag<!-- -->
+                                        :
+                                    </span>
+                                    <span>09:30 - 18:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD">
+                                    <span>
+                                        Fredag<!-- -->
+                                        :
+                                    </span>
+                                    <span>09:30 - 18:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD">
+                                    <span>
+                                        Lördag<!-- -->
+                                        :
+                                    </span>
+                                    <span>10:30 - 15:00</span>
+                                </li>
+                                <li class="hours_day__wpUkD hours_closed__D3J5T">
+                                    <span>
+                                        Söndag<!-- -->
+                                        :
+                                    </span>
+                                    <span>Stängt</span>
+                                </li>
+                            </ul>
+                        </section>
+                    </div>
+                </section>
+                <section class="layout_section__Rr_VK"></section>
+            </main>
+            <footer class="footer_container__nIga0">
+                <div class="footer_content__Svltj">
+                    <h3 class="footer_businessName__DTxFD">GERGISH</h3>
+                    <div class="footer_contacts__gn2K7">
+                        <p class="footer_contact__IfRvT">0704410613</p>
+                        <p class="footer_contact__IfRvT">sabrinagergish@gmail.com</p>
+                    </div>
+                    <div class="footer_social__wPoyk">
+                        <a href="https://urbanhair" target="_blank" rel="noreferrer" class="button_button__SRc2Y button_default__p6QhW" title="Instagram">
+                            <svg class="images_svg__F3xds" xmlns="http://www.w3.org/2000/svg" fill="transparent" height="20" width="20" viewBox="0 0 20 20">
+                                <path d="M9.99996 5.72083C9.15362 5.72083 8.32629 5.9718 7.62258 6.442C6.91888 6.91221 6.3704 7.58052 6.04652 8.36244C5.72264 9.14435 5.6379 10.0047 5.80302 10.8348C5.96813 11.6649 6.37568 12.4274 6.97413 13.0258C7.57258 13.6243 8.33506 14.0318 9.16514 14.1969C9.99521 14.3621 10.8556 14.2773 11.6375 13.9534C12.4194 13.6296 13.0878 13.0811 13.558 12.3774C14.0282 11.6737 14.2791 10.8463 14.2791 10C14.2791 8.8651 13.8283 7.77667 13.0258 6.97417C12.2233 6.17167 11.1349 5.72083 9.99996 5.72083V5.72083ZM9.99996 12.7783C9.45046 12.7783 8.9133 12.6154 8.4564 12.3101C7.99951 12.0048 7.6434 11.5709 7.43311 11.0632C7.22283 10.5555 7.16781 9.99692 7.27501 9.45798C7.38221 8.91903 7.64682 8.42398 8.03538 8.03542C8.42394 7.64687 8.91899 7.38226 9.45793 7.27505C9.99688 7.16785 10.5555 7.22287 11.0632 7.43316C11.5709 7.64344 12.0048 7.99955 12.3101 8.45644C12.6153 8.91334 12.7783 9.4505 12.7783 10C12.7783 10.7369 12.4856 11.4435 11.9645 11.9646C11.4435 12.4856 10.7368 12.7783 9.99996 12.7783V12.7783ZM15.4491 5.55167C15.4491 5.74945 15.3905 5.94279 15.2806 6.10724C15.1707 6.27169 15.0145 6.39986 14.8318 6.47555C14.6491 6.55124 14.448 6.57104 14.254 6.53245C14.0601 6.49387 13.8819 6.39863 13.742 6.25877C13.6022 6.11892 13.5069 5.94074 13.4683 5.74676C13.4298 5.55278 13.4496 5.35171 13.5252 5.16898C13.6009 4.98626 13.7291 4.83008 13.8936 4.7202C14.058 4.61032 14.2513 4.55167 14.4491 4.55167V4.55167C14.5804 4.55167 14.7105 4.57753 14.8318 4.62779C14.9531 4.67804 15.0634 4.7517 15.1562 4.84456C15.2491 4.93742 15.3228 5.04766 15.373 5.16898C15.4233 5.29031 15.4491 5.42035 15.4491 5.55167V5.55167ZM17.8966 4.54167C17.687 3.98553 17.3588 3.48165 16.935 3.065C16.5191 2.64117 16.0157 2.31325 15.46 2.10417C14.8123 1.86148 14.1281 1.73072 13.4366 1.7175C12.5483 1.67667 12.2641 1.66667 9.99996 1.66667C7.73579 1.66667 7.45246 1.67583 6.56329 1.7175C5.8721 1.73095 5.1882 1.8617 4.54079 2.10417C3.98512 2.3134 3.48175 2.64129 3.06579 3.065C2.6412 3.48105 2.31295 3.9851 2.10413 4.54167C1.86175 5.18911 1.731 5.87298 1.71746 6.56417C1.67579 7.4525 1.66663 7.73667 1.66663 10C1.66663 12.2633 1.67579 12.5475 1.71746 13.4358C1.731 14.127 1.86175 14.8109 2.10413 15.4583C2.31295 16.0149 2.6412 16.5189 3.06579 16.935C3.48225 17.3585 3.98583 17.6864 4.54163 17.8958C5.18908 18.1381 5.87295 18.2689 6.56413 18.2825C7.45329 18.3233 7.73746 18.3333 9.99996 18.3333C12.2625 18.3333 12.5475 18.3242 13.4358 18.2825C14.1273 18.269 14.8114 18.1383 15.4591 17.8958C16.0128 17.6818 16.5156 17.3543 16.9354 16.9346C17.3551 16.5148 17.6825 16.012 17.8966 15.4583C18.1394 14.811 18.2702 14.1271 18.2833 13.4358C18.3241 12.5467 18.3333 12.2633 18.3333 10C18.3333 7.73667 18.3241 7.4525 18.2833 6.56417C18.2698 5.87297 18.1391 5.18908 17.8966 4.54167V4.54167ZM16.7841 13.3675C16.7792 13.8964 16.683 14.4205 16.5 14.9167C16.3614 15.2766 16.1489 15.6035 15.8762 15.8762C15.6035 16.149 15.2766 16.3614 14.9166 16.5C14.421 16.6833 13.8976 16.7803 13.3691 16.7867C12.4908 16.8267 12.2266 16.835 10.0008 16.835C7.77496 16.835 7.51246 16.8267 6.63413 16.7867C6.10458 16.7807 5.57999 16.6837 5.08329 16.5C4.72131 16.3664 4.39384 16.1534 4.12496 15.8767C3.84804 15.6079 3.63502 15.2804 3.50163 14.9183C3.31746 14.4229 3.22047 13.8993 3.21496 13.3708C3.17663 12.4892 3.16663 12.2258 3.16663 10C3.16663 7.77417 3.17496 7.51167 3.21496 6.6325C3.22205 6.10338 3.31985 5.57939 3.50413 5.08333C3.63773 4.72135 3.85072 4.39389 4.12746 4.125C4.39494 3.84735 4.72168 3.6337 5.08329 3.5C5.5797 3.31669 6.10413 3.22083 6.63329 3.21667C7.51163 3.17583 7.77579 3.16667 9.99996 3.16667C12.2241 3.16667 12.4891 3.17583 13.3683 3.21583C13.8968 3.22142 14.4205 3.31753 14.9166 3.5C15.2766 3.63855 15.6035 3.85105 15.8762 4.12378C16.1489 4.3965 16.3614 4.72339 16.5 5.08333C16.6841 5.57875 16.7811 6.10232 16.7866 6.63083C16.825 7.51167 16.8333 7.775 16.8333 10C16.8333 12.225 16.825 12.4883 16.7841 13.3675Z"></path>
+                            </svg>
+                        </a>
+                        <a href="https://www.urbanhair.se" target="_blank" rel="noreferrer" class="button_button__SRc2Y button_default__p6QhW" title="Hemsida">
+                            <svg class="images_lineArt__O_WOM" xmlns="http://www.w3.org/2000/svg" fill="transparent" height="20" width="20" viewBox="0 0 24 24">
+                                <path d="M2 12H22M2 12C2 17.5228 6.47715 22 12 22M2 12C2 6.47715 6.47715 2 12 2M22 12C22 17.5228 17.5228 22 12 22M22 12C22 6.47715 17.5228 2 12 2M12 2C14.5013 4.73835 15.9228 8.29203 16 12C15.9228 15.708 14.5013 19.2616 12 22M12 2C9.49872 4.73835 8.07725 8.29203 8 12C8.07725 15.708 9.49872 19.2616 12 22" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="footer_logo__iLOx9">
+                   
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"business":{"businessName":"Gergish","avgStarRating":0,"reviewCount":0,"businessAddress":{"addressLine1":"","addressLine2":"","addressLine3":"","postCode":"","area":"","country":""},"phoneNumber":"08-642 22 60","email":"sabrinagergish@gmail.com","website":"www.urbanhair.se","facebook":"","instagram":"urbanhair","openingHours":{"openingHours":[{"dayOfWeek":"FRIDAY","dayStart":"09:30:00","dayEnd":"18:00:00","lunchStart":null,"lunchEnd":null,"closed":false},{"dayOfWeek":"MONDAY","dayStart":"09:30:00","dayEnd":"18:00:00","lunchStart":null,"lunchEnd":null,"closed":false},{"dayOfWeek":"SATURDAY","dayStart":"10:30:00","dayEnd":"15:00:00","lunchStart":null,"lunchEnd":null,"closed":false},{"dayOfWeek":"THURSDAY","dayStart":"09:30:00","dayEnd":"18:00:00","lunchStart":null,"lunchEnd":null,"closed":false},{"dayOfWeek":"TUESDAY","dayStart":"09:30:00","dayEnd":"18:00:00","lunchStart":null,"lunchEnd":null,"closed":false},{"dayOfWeek":"WEDNESDAY","dayStart":"09:30:00","dayEnd":"18:00:00","lunchStart":null,"lunchEnd":null,"closed":false}],"holidayHours":[]},"presentation":"","locLat":"","locLong":"","stableId":"4eZp3ZfJAdTwvVLk0oyqmj","heroImgUrl":"","orgLocSlug":"urban-hair-ab/urbanhair","reviewsEnabled":false,"banners":[],"prefs":{"timeZone":"Europe/Stockholm","currency":"SEK","region":"SE","locale":"sv_SE"}},"refData":{"resources":[{"id":7558,"name":"Beverlie","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"excludeLastInDay=false;useIntervalFallback=true;interval=30;intervalFallbackThreshold=6","web_minTimeBeforeBooking":60,"web_blockPublicHolidays":true,"web_slotFinderStrategy":"BEFORE_AFTER","sms_reminderWithin":24,"web_bookingMaxDaysInAdvance":"120"},"attributes":{},"hashId":"Q47DK3"},{"id":6505,"name":"Josefine","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_blockPublicHolidays":true},"attributes":{},"hashId":"362GN3"},{"id":4157,"name":"Kumba","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"excludeLastInDay=false;useIntervalFallback=true;interval=30;intervalFallbackThreshold=6","web_minTimeBeforeBooking":60,"web_blockPublicHolidays":true,"web_slotFinderStrategy":"BEFORE_AFTER","sms_reminderWithin":24,"web_bookingMaxDaysInAdvance":"120"},"attributes":{},"hashId":"QWPV83"},{"id":3120,"name":"Tyra","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"excludeLastInDay=false;useIntervalFallback=true;interval=30;intervalFallbackThreshold=6","web_minTimeBeforeBooking":60,"web_blockPublicHolidays":true,"web_slotFinderStrategy":"BEFORE_AFTER","sms_reminderWithin":24,"web_bookingMaxDaysInAdvance":90},"attributes":{},"hashId":"QVRD5Q"},{"id":798,"name":"Cilene ","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"excludeLastInDay=false;useIntervalFallback=true;interval=30;intervalFallbackThreshold=6","web_minTimeBeforeBooking":60,"web_blockPublicHolidays":true,"web_slotFinderStrategy":"BEFORE_AFTER","sms_reminderWithin":24,"web_bookingMaxDaysInAdvance":90},"attributes":{},"hashId":"Q8DJNQ"},{"id":796,"name":"Tanja","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"interval=30","web_minTimeBeforeBooking":60,"web_blockPublicHolidays":true,"web_slotFinderStrategy":"INTERVAL","web_bookingMaxDaysInAdvance":90},"attributes":{},"hashId":"3GV5KQ"},{"id":795,"name":"Chanel","group":"urbanhair","title":null,"presentation":null,"prefs":{"web_slotFinderParams":"excludeLastInDay=false;useIntervalFallback=true;interval=30;intervalFallbackThreshold=6","web_minTimeBeforeBooking":60,"web_slotFinderStrategy":"BEFORE_AFTER","sms_reminderWithin":24,"web_bookingMaxDaysInAdvance":120},"attributes":{},"hashId":"3P2GE3"}],"services":[{"group":"Klippning","serviceId":46185,"name":"Junior klippning Lockig frisyr","description":"Klipp ditt lockiga hår hos en frisör under training. Frisörerna under training har inte lika mycket erfarenhet, därför är behandlingen Junior klippning lockigt hår billigare. ","minDuration":null,"maxDuration":null,"minPrice":890,"maxPrice":890,"priceFrom":false,"addon":false,"prefs":{},"attributes":{}},{"group":"Klippning","serviceId":29608,"name":"Klippning inklusive tvätt och styling ","description":"","minDuration":60,"maxDuration":90,"minPrice":1390,"maxPrice":1390,"priceFrom":true,"addon":false,"prefs":{},"attributes":{}},{"group":"Klippning","serviceId":22265,"name":" Klippning Lockig frisyr ( shape cut)  inkl tvätt \u0026 styling","description":"En shapecut innebär att vi formar ditt hår efter dina lockar.\nEftersom vi oftast klipper i torrt hår ber vi er att gärna komma med lockigt utsläppt hår.","minDuration":60,"maxDuration":90,"minPrice":1390,"maxPrice":1390,"priceFrom":true,"addon":false,"prefs":{},"attributes":{}},{"group":"Klippning","serviceId":29472,"name":"Klippning med K18 / Chemestry Shot","description":"Klippning med en intensiv kur.\nVi bestämmer tillsammans med dig på plats viken som passar just ditt hår.","minDuration":90,"ma
