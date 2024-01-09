@@ -1491,7 +1491,7 @@ header {
 /* Footer */
 .footermobile {
     font-family: 'poppins', sans-serif;
-    min-height: 60px;
+    min-height: 40px;
     width: 100%;
     display: flex;
     align-items: center;
